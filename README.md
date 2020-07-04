@@ -8,3 +8,4 @@ some after-class exercisese and a little project of the 《C++Primer》
 2. **Vec**的实现；
 3. **String**的实现；
 4. **TextQueryProgram**文本查询程序。
+5. **doc存放了项目说明文档，标明了对应项目的知识点和所在页数**
